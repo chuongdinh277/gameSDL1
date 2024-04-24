@@ -12,7 +12,7 @@
 #include "foundation.h"
 #include "map.h"
 #include "menu.h"
-#include "perks.h"
+#include "perk.h"
 #include "player.h"
 #include "boss.h"
 #include "Time.h"

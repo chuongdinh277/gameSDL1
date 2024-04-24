@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\lập trình game\gameSDL_1\Blood.h(20,2): warning C4091: 'typedef ': ignored on left of 'BloodFormat' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\lập trình game\gameSDL_1\Blood.h(29,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\lập trình game\gameSDL_1\main.cpp(26,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  perks.cpp
+D:\lập trình game\gameSDL_1\perks.cpp(33,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  gameSDL_1.vcxproj -> D:\lập trình game\gameSDL_1\x64\Debug\gameSDL_1.exe

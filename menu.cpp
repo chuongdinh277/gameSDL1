@@ -6,16 +6,11 @@ int manageMenu(FRAMEWORK* game, Player players)
     int player=-1;
     while (game->MENU_STATE) 
     {
-        if (game->PAUSE) 
-        {
-            handlePauseOption(&scene, game);
-        }
-        else if (scene == 0) {
+         if (scene == 0) {
             handleMenuEntry(&scene, game);
         }
         else if (scene == 1) {
             player= handleHostGameOption(&scene, game);
-            //cout << PLAYER_NUMBER << ' ';
         }
         else if (scene == 2) 
         {
@@ -174,10 +169,7 @@ int manageMenu(FRAMEWORK* game, Player players)
         else if (selectedBox == 4)  PLAYER_NUMBER = 4;
 
         if (selectedBox == 5 || selectedBox == 6)
-        {
-            // game->menuState = false;
-            //out << PLAYER_NUMBER << '\n';
-            
+        {   
             break;
         }
     }
@@ -255,33 +247,4 @@ void handleSettingsOption(int* scene, FRAMEWORK* game) {
     }
 }
 
- void handlePauseOption(int* scene, FRAMEWORK* game) {
-    Menu menu = { {"Mute Song", " ", "Leave Game", "Quit Game", "\0"}, {"resources/pause_menu.png"} };
-    int selectedBox = displayOptions(game, &menu);
-    switch (selectedBox) {
-    case 0:
-        playMenuClickSound();
-        if (!game->MUTE) {
-            Mix_VolumeMusic(0);
-            game->MUTE = true;
-        }
-        else {
-            Mix_VolumeMusic(MIX_MAX_VOLUME / 5);
-            game->MUTE= false;
-        }
-        break;
-    case 2:
-        playMenuClickSound();
-        if (game->PAUSE) {
-            game->PAUSE= false;
-        }
-        break;
-    case 3:
-        game->MENU_STATE = false;
-        game->PAUSE = false;
-        game->QUIT = true;
-        break;
-    default:
-        break;
-    }
-}
+ 
