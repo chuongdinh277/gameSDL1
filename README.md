@@ -29,7 +29,8 @@ Xin chào mọi người đã đến với game của mình. Trong dự án này
    Cách 2: Cách này phức tạp hơn đó là bạn chạy trực tiếp code của mình, dể làm điều đó thì bạn phải cài đặt Visual Studio trên link này [Víual studio](https://visualstudio.microsoft.com/fr/) sau khi tải và cái đặt xong thì bạn phải dowload các thư viện của SDL2 mà mình đã gắn link ở bên trên và add các thư viện của SDL2 vào trong 1 project mới trên Visual Studio và sau khi làm xong hết bạn clone code của mình về rồi chạy code đó là xong.
 
 2. ### Cách chơi game
-   ![](resources/review.png)  
+   ![](resources/review.PNG)
+   ![](
    
 - ![image](review.png).
 Chào mừng bạn đã đến với Run-Away, game này là 1 dạng game phiêu lưu thú vị với nhiệm vụ của bạn là trong vòng 2 phút
