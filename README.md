@@ -13,9 +13,7 @@ Xin chào mọi người đã đến với game của mình. Trong dự án này
 ## MỤC LỤC
 1. [Cách tải và cài đặt game](#cách-tải-và-chơi-game)
 2. [Cách chơi game](#cách-chơi-game)
-3. [Chi tiết về game](#chi-tiết-về-game)
-4. [Thuật toán của game](#thuật-toán-về-game) 
-5. [Nguồn ảnh và âm thanh](#nguồn-ảnh-và-âm-thanh)
+3. [Nguồn ảnh và âm thanh](#nguồn-ảnh-và-âm-thanh)
 
 ### NỘI DUNG
 1. ### Cách tải và cài đặt game
