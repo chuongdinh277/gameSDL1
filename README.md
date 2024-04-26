@@ -30,7 +30,12 @@ Xin chào mọi người đã đến với game của mình. Trong dự án này
 
 2. ### Cách chơi game
    ![](resources/review.PNG)
-   ![](
+   Sau khi khởi động và chạy game thì sẽ xuất hiện menu của game ở đây trước khi chơi game thì bạn ấn vào rule để xem luật chơi của game
+   ![](resources/Luat_choi.png)
+
+   Sau khi đọc xong luật chơi bạn ấn back để trở về lại menu, nếu bạn muốn tắt ấm thanh thì có thể vào setting và tắt âm thanh đi
+   Như luật chơi đã đề cập nhiệm vụ của bạn là thu thập đủ các perk, bạn sẽ gặp cản trở bởi các con boss nên hãy đặt bom và tiêu diệt chúng và dành lấy chiến thắng nhé:
+   
    
 - ![image](review.png).
 Chào mừng bạn đã đến với Run-Away, game này là 1 dạng game phiêu lưu thú vị với nhiệm vụ của bạn là trong vòng 2 phút
