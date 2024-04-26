@@ -8,7 +8,7 @@ Xin chào mọi người đã đến với game của mình. Trong dự án này
   Để biết thêm về SDL2 thì bạn có thể tham khảo ở đây [SDL2](https://lazyfoo.net/tutorials/SDL/).
   Để học thêm về SDL2 bạn có thể học ở trên trang (https://phattrienphanmem123az.com/lap-trinh-game-cpp) giống mình nhé, anh này dạy cũng hay và chi tiết lắm.
 
-   Link demo game: (https://drive.google.com/file/d/1_e5MwbgahbZVZ6CKYY4nnbQlQdgQHBGq/view?usp=drive_link) 
+   Link demo game: (https://drive.google.com/file/d/1Fucr6NuUhbv132A45zUmZa0pJ-KooNsW/view?usp=drive_link) 
 
 ## MỤC LỤC
 1. [Cách tải và cài đặt game](#cách-tải-và-chơi-game)
